@@ -1,0 +1,12 @@
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstOptimizer.csprojResolveAssemblyReference.cache
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstTools.Form1.resources
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstTools.Properties.Resources.resources
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstOptimizer.csproj.GenerateResource.Cache
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\BurstTools.exe.config
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\BurstTools.exe
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\BurstTools.pdb
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\Lib.dll
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\bin\Debug\Lib.pdb
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstTools.exe
+C:\Users\seppel\Source\Repos\BurstTools\BurstOptimizer\obj\Debug\BurstTools.pdb

@@ -1,0 +1,8 @@
+C:\Users\seppel\Source\Repos\BurstTools\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\seppel\Source\Repos\BurstTools\Lib\obj\Debug\Lib.DebugForm.resources
+C:\Users\seppel\Source\Repos\BurstTools\Lib\obj\Debug\Lib.csproj.GenerateResource.Cache
+C:\Users\seppel\Source\Repos\BurstTools\Lib\bin\Debug\Lib.dll
+C:\Users\seppel\Source\Repos\BurstTools\Lib\bin\Debug\Lib.pdb
+C:\Users\seppel\Source\Repos\BurstTools\Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seppel\Source\Repos\BurstTools\Lib\obj\Debug\Lib.dll
+C:\Users\seppel\Source\Repos\BurstTools\Lib\obj\Debug\Lib.pdb
