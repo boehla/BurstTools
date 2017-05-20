@@ -126,7 +126,7 @@ namespace BurstTools {
             try {
                 Lib.Logging.log(LOGFILE_WRITE, string.Format("Start writeThread, outputfile={0}", outputfile));
                 if (File.Exists(outputfile)) File.Delete(outputfile);
-                fin = new FileStream(outputfile, FileMode.Open);
+                fin = new FileStream(outputfile, FileMode.Create);
                 while (true) {
                     byte[] writebuf = null;
 
